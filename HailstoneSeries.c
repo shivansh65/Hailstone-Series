@@ -1,4 +1,5 @@
 //HAILSTONE SERIES
+// =_=
 #include <stdio.h>
 int hailstone(int a);
 int main()
